@@ -1,0 +1,42 @@
+.copy_right_footer{
+    position: fixed;
+    color: yellow;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+}
+body{
+    background: yellow;
+}
+h1{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 50px;
+    color: black;
+    text-shadow: 2px 2px;
+}
+
+h4{
+    color: red;
+}
+
+#camera{
+    height: 400px;
+    width: 500px;
+    border-color: red;
+
+}
+img:hover{
+    border-radius: 140px;
+}
+img{
+    height: 400px;
+    width: 600px;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 10px;
+}
+
